@@ -1,1 +1,1 @@
-# Sign-Language-Recognizerrr
+# Sign-Language-Recognizer
