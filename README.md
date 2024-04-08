@@ -43,7 +43,11 @@ If you want to run this project locally perform following steps
 
 - This help you to get the new path of dataset from your local folder
  <img src="/Path.png" width="400">
+
+ 
 - Collecting Keypoint Values for training and testing can take up to 45 minutes.
+
+  
 - Training model takes 20 minutes.
 
 
