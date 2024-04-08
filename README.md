@@ -50,7 +50,7 @@ If you want to run this project locally perform following steps
 <img src="/Architecture.png" width="600" >
 
 ## License
-This project is licensed under the MIT License - see the [License](/License)file for details.
+This project is licensed under the MIT License - see the [License](/License) file for details.
 
 
   
