@@ -37,7 +37,7 @@ If you want to run this project locally perform following steps
 
 
 ## WorkFlow
-<img src="/Architecture.png" >
+<img src="/Architecture.png" width="600" >
 
   
 
