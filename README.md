@@ -38,12 +38,20 @@ If you want to run this project locally perform following steps
 
 ## How to deal with Code
 - Be careful when you run code if you meet the variable that take the path of dataset you should put the local path of dataset which is downloaded with this repo.
+
+
+- This help you to get the new path of dataset from your local folder
+ <img src="/Path.png" width="400">
 - Collecting Keypoint Values for training and testing can take up to 45 minutes.
 - Training model takes 20 minutes.
 
 
 ## WorkFlow
 <img src="/Architecture.png" width="600" >
+
+## License
+This project is licensed under the MIT License - see the [License]().
+
 
   
 
