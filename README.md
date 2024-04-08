@@ -27,7 +27,18 @@ If you want to run this project locally perform following steps
 
 ## Installing Requirements
 - Open a terminal within VS Code by selecting from Navigation Bar "Terminal" -> "New Terminal" from the menu.
-- pip install -r requirements.txt 
+- pip install -r requirements.txt
+
+
+## How to deal with Code
+- Be careful when you run code if you meet the variable that take the path of dataset you should put the local path of dataset which is downloaded with this repo.
+- Collecting Keypoint Values for training and testing can take up to 45 minutes.
+- Training model takes 20 minutes.
+
+
+## WorkFlow
+
+  
 
 
 
