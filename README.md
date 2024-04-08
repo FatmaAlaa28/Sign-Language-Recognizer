@@ -3,6 +3,12 @@ Sign Languages are a set of languages that use predefined actions and movements 
 
 
 In this project, we aim towards analyzing and recognizing various words from a database of sign images. Database consists of various images with each image clicked in different light condition with different hand orientation. With such a divergent data set, we are able to train our system to good levels and thus obtain good results.
+# Outlines
+1. Requirements
+2. Running
+3. Installing Requirements
+4. How to deal with Code
+5. WorkFlow
 # Getting Started
 ## Requirements
 
