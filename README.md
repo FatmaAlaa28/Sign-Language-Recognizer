@@ -9,6 +9,7 @@ In this project, we aim towards analyzing and recognizing various words from a d
 3. Installing Requirements
 4. How to deal with Code
 5. WorkFlow
+6. License
 # Getting Started
 ## Requirements
 
